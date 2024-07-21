@@ -2,4 +2,8 @@ My First File
 line added 1
 line added 2
 local repo edit 1
+<<<<<<< HEAD
 local repo edit 2
+=======
+remote repo edit 2
+>>>>>>> 610cebdab41781f883531e17c55fecbbf096529a
