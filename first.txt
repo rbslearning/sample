@@ -8,3 +8,4 @@ local repo edit 2
 =======
 remote repo edit 2
 >>>>>>> 610cebdab41781f883531e17c55fecbbf096529a
+## adding footer msg
